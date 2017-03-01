@@ -1,0 +1,11 @@
+E:\South Tech\Visual Basic\Mastermind Game\Mastermind Game\bin\Debug\Mastermind Game.exe.config
+E:\South Tech\Visual Basic\Mastermind Game\Mastermind Game\obj\Debug\Mastermind Game.vbprojResolveAssemblyReference.cache
+E:\South Tech\Visual Basic\Mastermind Game\Mastermind Game\obj\Debug\Mastermind_Game.frmMaster.resources
+E:\South Tech\Visual Basic\Mastermind Game\Mastermind Game\obj\Debug\Mastermind_Game.Resources.resources
+E:\South Tech\Visual Basic\Mastermind Game\Mastermind Game\obj\Debug\Mastermind Game.vbproj.GenerateResource.Cache
+E:\South Tech\Visual Basic\Mastermind Game\Mastermind Game\obj\Debug\Mastermind Game.xml
+E:\South Tech\Visual Basic\Mastermind Game\Mastermind Game\bin\Debug\Mastermind Game.exe
+E:\South Tech\Visual Basic\Mastermind Game\Mastermind Game\bin\Debug\Mastermind Game.pdb
+E:\South Tech\Visual Basic\Mastermind Game\Mastermind Game\bin\Debug\Mastermind Game.xml
+E:\South Tech\Visual Basic\Mastermind Game\Mastermind Game\obj\Debug\Mastermind Game.exe
+E:\South Tech\Visual Basic\Mastermind Game\Mastermind Game\obj\Debug\Mastermind Game.pdb
